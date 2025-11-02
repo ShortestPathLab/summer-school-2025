@@ -44,11 +44,6 @@
         - name: "Configuration and setup"
           elevated: true
           description: "Prepare for the week ahead by installing and configuring software environments."
-    - time: "18:00"
-      events:
-        - name: "🎈 Social events"
-          description: "Opportunities to interact and connect with peers."
-          elevated: true
 - date: "2024-11-04"
   events:
     - time: "07:30-08:20"
@@ -218,6 +213,10 @@
       events:
         - name: Breakfast
           description: "Breakfast served on-site at the Watermark Restaurant."
+    - time: "09:00-10:00"
+      events:
+        - name: "Check out"
+          description: "Check out from the accommodation."
     - time: "10:30-11:00"
       events:
         - name: "🫖 Morning tea"
